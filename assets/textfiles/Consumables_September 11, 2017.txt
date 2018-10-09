@@ -1,0 +1,10 @@
+Inventory of Supplies as of September 11, 2017
+
+Item #          Description       Unit        Qty             Location
+1             Food                pcs         30            Balay                         
+2             Candy               pcs         50            Jar                           
+3             Red Horse           pcs         9             Case                          
+4             Coke                pcs         100           Coca Cola                     
+5             Marshmallow         pcs         100           Plastic                       
+6             Water bottle        pcs         300           Balay                         
+7             Tanduay             pcs         10            Tindahan                      

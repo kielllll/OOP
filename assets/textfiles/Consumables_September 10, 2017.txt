@@ -1,0 +1,8 @@
+Inventory of Supplies as of September 10, 2017
+
+Item #          Description       Unit        Qty             Location
+1             Food                pcs         30            Balay                         
+2             Candy               pcs         50            Jar                           
+3             Red Horse           pcs         9             Case                          
+4             Coke                pcs         100           Coca Cola                     
+5             Marshmalloww        pcs         100           Plastic                       

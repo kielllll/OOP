@@ -1,0 +1,9 @@
+Inventory of Supplies as of September 5, 2017
+
+Item #        Qty       Unit       PC #                    Description                  Location
+1            1         pc         1234             House and Lot                        Balay                         
+2            1         pc         1235             Car with Airplane                    Garage                        
+3            1         pc         1236             Laptop                               Bulsa                         
+4            1         pc         1237             Keyboard                             Balay                         
+5            1         pc         1238             Mouse                                Balay                         
+6            1         pc         1239             Selpon                               Bag                           
